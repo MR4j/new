@@ -2,3 +2,9 @@ safdljklnsafdf
 
 
 fdsalh;dsafk
+
+<<<<<<< HEAD
+masterbranch update
+=======
+new featurebranch
+>>>>>>> newbranch
